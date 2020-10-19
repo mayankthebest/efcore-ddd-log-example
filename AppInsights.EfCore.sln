@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppInsights.EfCore", "AppInsights.EfCore\AppInsights.EfCore.csproj", "{210CD3F4-A6F2-43CF-9D92-126627454580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppInsights.EfCore.Domain", "AppInsights.EfCore.Domain\AppInsights.EfCore.Domain.csproj", "{14B77856-EE24-463D-B88A-A9232855B333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{210CD3F4-A6F2-43CF-9D92-126627454580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{210CD3F4-A6F2-43CF-9D92-126627454580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{210CD3F4-A6F2-43CF-9D92-126627454580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{210CD3F4-A6F2-43CF-9D92-126627454580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B77856-EE24-463D-B88A-A9232855B333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B77856-EE24-463D-B88A-A9232855B333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B77856-EE24-463D-B88A-A9232855B333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B77856-EE24-463D-B88A-A9232855B333}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1960AB45-FC42-4FBE-8892-0A3C4B4FFA77}
+	EndGlobalSection
+EndGlobal
